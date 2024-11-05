@@ -1,0 +1,7 @@
+C:\Users\diogo\Documents\Cinel\PAlg\Estrutura_Dados\Exercicios_extra\Exercicios_extra_01_10\Exercicios_extra_01_10\bin\Debug\Exercicios_extra_01_10.exe.config
+C:\Users\diogo\Documents\Cinel\PAlg\Estrutura_Dados\Exercicios_extra\Exercicios_extra_01_10\Exercicios_extra_01_10\bin\Debug\Exercicios_extra_01_10.exe
+C:\Users\diogo\Documents\Cinel\PAlg\Estrutura_Dados\Exercicios_extra\Exercicios_extra_01_10\Exercicios_extra_01_10\bin\Debug\Exercicios_extra_01_10.pdb
+C:\Users\diogo\Documents\Cinel\PAlg\Estrutura_Dados\Exercicios_extra\Exercicios_extra_01_10\Exercicios_extra_01_10\obj\Debug\Exercicios_extra_01_10.csproj.AssemblyReference.cache
+C:\Users\diogo\Documents\Cinel\PAlg\Estrutura_Dados\Exercicios_extra\Exercicios_extra_01_10\Exercicios_extra_01_10\obj\Debug\Exercicios_extra_01_10.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Documents\Cinel\PAlg\Estrutura_Dados\Exercicios_extra\Exercicios_extra_01_10\Exercicios_extra_01_10\obj\Debug\Exercicios_extra_01_10.exe
+C:\Users\diogo\Documents\Cinel\PAlg\Estrutura_Dados\Exercicios_extra\Exercicios_extra_01_10\Exercicios_extra_01_10\obj\Debug\Exercicios_extra_01_10.pdb

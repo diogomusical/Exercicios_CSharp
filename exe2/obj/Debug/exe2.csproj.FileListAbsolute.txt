@@ -1,0 +1,7 @@
+C:\Users\diogo\Documents\Cinel\PAlg\Estrutura_Dados\Exercicios_extra\Exercicios_extra_01_10\exe2\obj\Debug\exe2.csproj.AssemblyReference.cache
+C:\Users\diogo\Documents\Cinel\PAlg\Estrutura_Dados\Exercicios_extra\Exercicios_extra_01_10\exe2\obj\Debug\exe2.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Documents\Cinel\PAlg\Estrutura_Dados\Exercicios_extra\Exercicios_extra_01_10\exe2\bin\Debug\exe2.exe.config
+C:\Users\diogo\Documents\Cinel\PAlg\Estrutura_Dados\Exercicios_extra\Exercicios_extra_01_10\exe2\bin\Debug\exe2.exe
+C:\Users\diogo\Documents\Cinel\PAlg\Estrutura_Dados\Exercicios_extra\Exercicios_extra_01_10\exe2\bin\Debug\exe2.pdb
+C:\Users\diogo\Documents\Cinel\PAlg\Estrutura_Dados\Exercicios_extra\Exercicios_extra_01_10\exe2\obj\Debug\exe2.exe
+C:\Users\diogo\Documents\Cinel\PAlg\Estrutura_Dados\Exercicios_extra\Exercicios_extra_01_10\exe2\obj\Debug\exe2.pdb
