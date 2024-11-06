@@ -1,0 +1,7 @@
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\exe07\bin\Debug\exe07.exe.config
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\exe07\bin\Debug\exe07.exe
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\exe07\bin\Debug\exe07.pdb
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\exe07\obj\Debug\exe07.csproj.AssemblyReference.cache
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\exe07\obj\Debug\exe07.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\exe07\obj\Debug\exe07.exe
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\exe07\obj\Debug\exe07.pdb
