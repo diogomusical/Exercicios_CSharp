@@ -1,0 +1,7 @@
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\exe5\bin\Debug\exe5.exe.config
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\exe5\bin\Debug\exe5.exe
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\exe5\bin\Debug\exe5.pdb
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\exe5\obj\Debug\exe5.csproj.AssemblyReference.cache
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\exe5\obj\Debug\exe5.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\exe5\obj\Debug\exe5.exe
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\exe5\obj\Debug\exe5.pdb
