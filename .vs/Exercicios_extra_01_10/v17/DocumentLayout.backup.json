@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{543B7F45-5731-49B8-9F64-74599B427BC1}|exe09\\exe09.csproj|c:\\users\\diogo\\documents\\github\\csharp\\exercicios_csharp\\exe09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543B7F45-5731-49B8-9F64-74599B427BC1}|exe09\\exe09.csproj|solutionrelative:exe09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D63E479E-38F4-4585-A853-9025EF078BA7}|exe08\\exe08.csproj|c:\\users\\diogo\\documents\\github\\csharp\\exercicios_csharp\\exe08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D63E479E-38F4-4585-A853-9025EF078BA7}|exe08\\exe08.csproj|solutionrelative:exe08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3D310F8-67BC-47C5-8378-813A0BDD01CF}|exe07\\exe07.csproj|c:\\users\\diogo\\documents\\github\\csharp\\exercicios_csharp\\exe07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3D310F8-67BC-47C5-8378-813A0BDD01CF}|exe07\\exe07.csproj|C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\exe07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3D310F8-67BC-47C5-8378-813A0BDD01CF}|exe07\\exe07.csproj|solutionrelative:exe07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,18 +44,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\exe09\\Program.cs",
+              "RelativeDocumentMoniker": "exe09\\Program.cs",
+              "ToolTip": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\exe09\\Program.cs",
+              "RelativeToolTip": "exe09\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:58:38.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\exe08\\Program.cs",
               "RelativeDocumentMoniker": "exe08\\Program.cs",
               "ToolTip": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\exe08\\Program.cs",
               "RelativeToolTip": "exe08\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T14:36:25.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\exe07\\Program.cs",
               "RelativeDocumentMoniker": "exe07\\Program.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "exe07\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAArwB8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T14:27:31.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T14:27:31.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\exe06\\Program.cs",
               "RelativeDocumentMoniker": "exe06\\Program.cs",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\exe5\\Program.cs",
               "RelativeDocumentMoniker": "exe5\\Program.cs",
@@ -88,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\exe4\\Program.cs",
               "RelativeDocumentMoniker": "exe4\\Program.cs",
@@ -100,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\exe3\\Program.cs",
               "RelativeDocumentMoniker": "exe3\\Program.cs",
