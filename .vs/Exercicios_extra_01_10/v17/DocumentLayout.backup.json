@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{7F31040D-1B5E-4981-AC4C-5E1CE258824F}|exe06\\exe06.csproj|solutionrelative:exe06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7214B12-A993-4D60-B596-A2DFA308E365}|exe5\\exe5.csproj|c:\\users\\diogo\\documents\\github\\csharp\\exercicios_csharp\\exe5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7214B12-A993-4D60-B596-A2DFA308E365}|exe5\\exe5.csproj|C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\exe5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7214B12-A993-4D60-B596-A2DFA308E365}|exe5\\exe5.csproj|solutionrelative:exe5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "exe06\\Program.cs",
               "ToolTip": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\exe06\\Program.cs*",
               "RelativeToolTip": "exe06\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwC4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T13:42:34.491Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "exe5\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T13:24:56.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T13:24:56.322Z"
             },
             {
               "$type": "Document",
