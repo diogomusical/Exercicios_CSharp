@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B2858AA0-B321-4BA1-9C39-7DE50A2792C7}|exe4\\exe4.csproj|c:\\users\\diogo\\documents\\github\\csharp\\exercicios_csharp\\exe4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2858AA0-B321-4BA1-9C39-7DE50A2792C7}|exe4\\exe4.csproj|solutionrelative:exe4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CFC44E9B-3723-474D-9A40-BD7409037B99}|exe3\\exe3.csproj|c:\\users\\diogo\\documents\\github\\csharp\\exercicios_csharp\\exe3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFC44E9B-3723-474D-9A40-BD7409037B99}|exe3\\exe3.csproj|solutionrelative:exe3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\exe4\\Program.cs",
+              "RelativeDocumentMoniker": "exe4\\Program.cs",
+              "ToolTip": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\exe4\\Program.cs*",
+              "RelativeToolTip": "exe4\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:18:45.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\exe3\\Program.cs",
               "RelativeDocumentMoniker": "exe3\\Program.cs",
-              "ToolTip": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\exe3\\Program.cs*",
-              "RelativeToolTip": "exe3\\Program.cs*",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwC4AAABYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\exe3\\Program.cs",
+              "RelativeToolTip": "exe3\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T21:18:27.005Z",
               "EditorCaption": ""
