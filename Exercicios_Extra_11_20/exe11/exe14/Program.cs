@@ -35,7 +35,12 @@ namespace exe14
                 total_valores += valor;
             }
 
-            Console.WriteLine("MÉDIA: " + $"{ total_valores / (nr_valores_pos + nr_valores_neg)}");
+            Console.WriteLine("Número de valores positivos: " + $"{nr_valores_pos}");
+            Console.WriteLine("Número de valores negativos: " + $"{nr_valores_neg}");
+            Console.WriteLine("Percentagem de valores negativos: " + $"{nr_valores_neg*100/nr_valores}");
+            Console.WriteLine("Percentagem de valores positivos: " + $"{nr_valores_pos * 100 / nr_valores}");
+
+            Console.WriteLine("MÉDIA: " + $"{ total_valores / (nr_valores)}");
 
 
         }
