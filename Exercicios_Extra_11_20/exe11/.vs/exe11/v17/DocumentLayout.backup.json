@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_Extra_11_20\\exe11\\",
+  "WorkspaceRootPath": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\Exercicios_Extra_11_20\\exe11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD240EEA-B860-4367-BFB7-1BDE32B8B3D0}|Exercicios_Extra_11_ate_20\\Exercicios_Extra_11_ate_20.csproj|c:\\users\\diogo\\documents\\github\\csharp\\exercicios_extra_11_20\\exe11\\exercicios_extra_11_ate_20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD240EEA-B860-4367-BFB7-1BDE32B8B3D0}|Exercicios_Extra_11_ate_20\\Exercicios_Extra_11_ate_20.csproj|solutionrelative:exercicios_extra_11_ate_20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E10D5CEC-0EBC-4FCF-B9A9-0954F279BDDF}|exe12\\exe12.csproj|c:\\users\\diogo\\documents\\github\\csharp\\exercicios_csharp\\exercicios_extra_11_20\\exe11\\exe12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10D5CEC-0EBC-4FCF-B9A9-0954F279BDDF}|exe12\\exe12.csproj|solutionrelative:exe12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD240EEA-B860-4367-BFB7-1BDE32B8B3D0}|Exercicios_Extra_11_ate_20\\exe11.csproj|c:\\users\\diogo\\documents\\github\\csharp\\exercicios_csharp\\exercicios_extra_11_20\\exe11\\exercicios_extra_11_ate_20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD240EEA-B860-4367-BFB7-1BDE32B8B3D0}|Exercicios_Extra_11_ate_20\\exe11.csproj|solutionrelative:exercicios_extra_11_ate_20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_Extra_11_20\\exe11\\Exercicios_Extra_11_ate_20\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\Exercicios_Extra_11_20\\exe11\\exe12\\Program.cs",
+              "RelativeDocumentMoniker": "exe12\\Program.cs",
+              "ToolTip": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\Exercicios_Extra_11_20\\exe11\\exe12\\Program.cs*",
+              "RelativeToolTip": "exe12\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:01:20.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\Exercicios_Extra_11_20\\exe11\\Exercicios_Extra_11_ate_20\\Program.cs",
               "RelativeDocumentMoniker": "Exercicios_Extra_11_ate_20\\Program.cs",
-              "ToolTip": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_Extra_11_20\\exe11\\Exercicios_Extra_11_ate_20\\Program.cs",
+              "ToolTip": "C:\\Users\\diogo\\Documents\\GitHub\\CSharp\\Exercicios_CSharp\\Exercicios_Extra_11_20\\exe11\\Exercicios_Extra_11_ate_20\\Program.cs",
               "RelativeToolTip": "Exercicios_Extra_11_ate_20\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA6wB0AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwB0AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T11:40:36.468Z",
               "EditorCaption": ""
