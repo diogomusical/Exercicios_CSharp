@@ -1,0 +1,7 @@
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\Exercicios_Extra_11_20\exe11\exe14\obj\Debug\exe14.csproj.AssemblyReference.cache
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\Exercicios_Extra_11_20\exe11\exe14\obj\Debug\exe14.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\Exercicios_Extra_11_20\exe11\exe14\bin\Debug\exe14.exe.config
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\Exercicios_Extra_11_20\exe11\exe14\bin\Debug\exe14.exe
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\Exercicios_Extra_11_20\exe11\exe14\bin\Debug\exe14.pdb
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\Exercicios_Extra_11_20\exe11\exe14\obj\Debug\exe14.exe
+C:\Users\diogo\Documents\GitHub\CSharp\Exercicios_CSharp\Exercicios_Extra_11_20\exe11\exe14\obj\Debug\exe14.pdb
